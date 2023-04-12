@@ -1,0 +1,62 @@
+[
+{
+    "id":1,
+    "img":"../src/assets/images/All Images/google.png",
+    "title":"Technical Database Engineer",
+    "company":"Google LLC",
+    "type_1":"Remote",
+    "type_2":"Full Time",
+    "location":"Dhaka,Bangladesh",
+    "salary":"100K-150K"
+},
+{
+    "id":2,
+    "img":"../src/assets/images/All Images/netflix.png",
+    "title":"Senior Product Designer",
+    "company":"Netflix",
+    "type_1":"Onsite",
+    "type_2":"Full Time",
+    "location":"Dhaka,Bangladesh",
+    "salary":"100K-150K"
+},
+{
+    "id":3,
+    "img":"../src/assets/images/All Images/tesla.png",
+    "title":"Software Engineer",
+    "company":"Tesla",
+    "type_1":"Onsite",
+    "type_2":"Full Time",
+    "location":"Dhaka,Bangladesh",
+    "salary":"100K-150K"
+},
+{
+    "id":4,
+    "img":"../src/assets/images/All Images/google.png",
+    "title":"Technical Database Manager",
+    "company":"Google LLC",
+    "type_1":"Remote",
+    "type_2":"Full Time",
+    "location":"Dhaka,Bangladesh",
+    "salary":"100K-150K"
+},
+{
+    "id":5,
+    "img":"../src/assets/images/All Images/tesla.png",
+    "title":"Technical Database Engineer",
+    "company":"Google LLC",
+    "type_1":"Remote",
+    "type_2":"Full Time",
+    "location":"Dhaka,Bangladesh",
+    "salary":"100K-150K"
+},
+{
+    "id":6,
+    "img":"../src/assets/images/All Images/netflix.png",
+    "title":"Technical Database Engineer",
+    "company":"Google LLC",
+    "type_1":"Remote",
+    "type_2":"Full Time",
+    "location":"Dhaka,Bangladesh",
+    "salary":"100K-150K"
+}
+]
